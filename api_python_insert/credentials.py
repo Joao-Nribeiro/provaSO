@@ -1,4 +1,4 @@
 usr = 'root'
-pswd = 'Sirstephan0'
+pswd = 'urubu100'
 
 
