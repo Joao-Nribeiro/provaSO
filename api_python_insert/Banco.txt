@@ -1,0 +1,10 @@
+create database prova;
+use prova;
+
+create table banco(
+idTransferencia int primary key auto_increment,
+transferencia int,
+dataTransferencia datetime
+);
+
+select * from banco;
